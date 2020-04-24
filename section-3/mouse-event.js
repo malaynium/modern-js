@@ -9,7 +9,7 @@ const heading = document.querySelector('h5');
 // Mouse down
 //clearBtn.addEventListener('mousedown', runEvent);
 // Mouse up
-//clearBtn.addEventListener('mouseup', runEvent);
+//clearBtn.addEventListener('mouseup', runEvent);clclea
 // Mouse Enter
 // card.addEventListener('mouseenter', runEvent);
 // // Mouse leave
