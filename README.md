@@ -8,5 +8,5 @@
     * Demo: https://malaynium.github.io/loan-calculator/
 
   * Project 3: Number Guesser Game App
-  * Code: https://github.com/malaynium/number-guesser
-  * Demo: https://malaynium.github.io/number-guesser/
+    * Code: https://github.com/malaynium/number-guesser
+    * Demo: https://malaynium.github.io/number-guesser/
