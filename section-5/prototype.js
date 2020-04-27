@@ -1,5 +1,4 @@
 // Person Constructor
-// Person Constructor
 function Person (firstName,lastName,dob){
   this.firstName = firstName;
   this.lastName = lastName; 
