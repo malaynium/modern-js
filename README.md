@@ -10,3 +10,11 @@
   * Project 3: Number Guesser Game App
     * Code: https://github.com/malaynium/number-guesser
     * Demo: https://malaynium.github.io/number-guesser/
+
+  * Project 4: Book List ES5 App 
+    * Code: https://github.com/malaynium/book-list-es5
+    * Demo: https://malaynium.github.io/book-list-es5/
+
+  * Project 5: Book List ES6 App
+    * Code: https://github.com/malaynium/book-list-e6
+    * Demo: https://malaynium.github.io/book-list-es6/   
