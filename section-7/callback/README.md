@@ -1,0 +1,1 @@
+# Callback is a function that can be pass in to another function and call within that function.
